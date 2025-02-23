@@ -96,5 +96,5 @@ Absolute Error measures the magnitude of error without considering direction.
 
 Forecast Accuracy % tells you how well your forecasts matched the actual values, expressed as a percentage.
 
-
-
+In supply chain management, forecast accuracy %, net error, and absolute error are essential for optimizing inventory levels, 
+reducing costs, and improving demand planning to ensure smoother operations.
