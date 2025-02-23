@@ -2,9 +2,7 @@
 
 **Aim**
 
-1. Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year
-2. 
-
+Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year
 
 **Description**
 
