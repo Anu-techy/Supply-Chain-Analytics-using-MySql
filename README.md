@@ -2,7 +2,11 @@
 
 **Aim**
 
-Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year
+1. Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year using CTE
+
+2. Create a stored procedure to Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year 
+
+3. Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year by creating a temporary table
 
 **Description**
 
