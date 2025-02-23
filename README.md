@@ -68,6 +68,8 @@ dim_product (product_code, division, segment, category, product, variant)
 
 fact_sales_monthly (monthly aggregated data in start of the month date, product_code, customer_code, sold_quantity )
 
+fact_forecast_monthly (monthly aggregated data in start of the month date, fiscal_year, product_code, forecast_quantity)
+
 fact_freight_Cost (market, fiscal_year, freight_pct, other_cost_pct)
 
 fact_gross_price (product_code, fiscal_year, gross_price)
@@ -78,7 +80,9 @@ fact_post_invoice_deductions (customer_code, product_code, date, discounts_pct, 
 
 fact_pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)
 
-fact_forecast_monthly (forecast_qty)
+fact_act_est (date, fiscal_year, product_code, customer_code, sold_quantity, forecast_quantity)
+
+fact_act_est is a derived table by joining fact_sales_monthly and fact_forecast_monthly
 
 =======================================================================
 
