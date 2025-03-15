@@ -8,21 +8,7 @@
 
 3. Calculate the aggregate forecast accuracy report for all the customers for a given fiscal year by creating a temporary table
 
-**Description**
-
-**Atliq** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc It has operations all over the globe.
-
-It sells to consumers through the following distribution channels:
-
-              1. Direct Channel (Atliq E-stroe, Atliq Exclusive)
-              2. Retailer (Croma, amazon)
-              3. Distributer (Eg- Neptune in China)
-              
-It has two platforms:
-
-              1. Brick and Mortar (like Croma, BestBuy)
-              2. E-commerce (like Amazon, Flipkart)
-              
+            
 **Supply Chain Management**
 
 After manufacturing hardware in the production units, it is stored in a warehouse. From there, the inventory is distributed to various customers. The company must consider inventory demand forecasts to ensure a continuous and reliable supply.
@@ -58,7 +44,7 @@ A higher forecast accuracy percentage means that the forecasted values are close
 
 **ETL (Extract Transform Load) Process**
 
-Data is imported from Atliq Database
+Data is imported from Database
 
 **Dimension tables:**
 
